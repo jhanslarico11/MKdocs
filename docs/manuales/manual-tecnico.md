@@ -175,16 +175,23 @@ Durante el desarrollo se realizaron pruebas para verificar el correcto funcionam
 
 # 🔄 Control de versiones
 
-El proyecto utiliza Git y GitHub para el control de versiones.
+El proyecto utiliza **Git** como sistema de control de versiones y **GitHub** como repositorio remoto para gestionar el código fuente, facilitar la colaboración y mantener un historial de cambios.
 
-Flujo de trabajo:
+## Flujo de trabajo
 
 ```mermaid
 flowchart LR
-A[Desarrollador] --> B[Git]
-B --> C[GitHub]
-C --> D[Pull Request]
-D --> E[Merge]
+    A[👨‍💻 Desarrollador] --> B[📂 Clonar repositorio]
+    B --> C[🌿 Crear o cambiar de rama]
+    C --> D[💻 Desarrollar funcionalidades]
+    D --> E[✅ Git Add]
+    E --> F[📝 Git Commit]
+    F --> G[⬆️ Git Push]
+    G --> H[🐙 GitHub]
+    H --> I[🔀 Pull Request]
+    I --> J[👀 Revisión de código]
+    J --> K[✔️ Merge a main]
+    K --> L[🚀 Despliegue]
 ```
 
 ---

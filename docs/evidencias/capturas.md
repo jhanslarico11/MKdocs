@@ -12,7 +12,7 @@ Las capturas muestran la evolución del sistema y permiten verificar visualmente
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen del Login.
+    ![Pantalla de inicio de sesión](../assets/capturas/login.png)
 
 Descripción
 
@@ -26,7 +26,7 @@ Descripción
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen del Dashboard.
+    ![Dashboard principal](../assets/capturas/dashboard.png)
 
 Descripción
 
@@ -40,7 +40,7 @@ Descripción
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen del módulo Usuarios.
+    ![Módulo de gestión de usuarios](../assets/capturas/usuarios.png)
 
 Funciones
 
@@ -55,7 +55,7 @@ Funciones
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen del módulo Productos.
+    ![Módulo de gestión de productos](../assets/capturas/productos.png)
 
 Funciones
 
@@ -69,7 +69,7 @@ Funciones
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen del módulo Categorías.
+    ![Módulo de gestión de categorías](../assets/capturas/categorias.png)
 
 ---
 
@@ -77,7 +77,7 @@ Funciones
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen del módulo Clientes.
+    ![Módulo de gestión de clientes](../assets/capturas/clientes.png)
 
 ---
 
@@ -85,7 +85,7 @@ Funciones
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen del módulo Proveedores.
+    ![Módulo de gestión de proveedores](../assets/capturas/proveedores.png)
 
 ---
 
@@ -93,7 +93,7 @@ Funciones
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen del módulo Ventas.
+    ![Registro de ventas](../assets/capturas/ventas.png)
 
 ```mermaid
 flowchart LR
@@ -109,7 +109,7 @@ flowchart LR
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen del módulo Compras.
+    ![Registro de compras](../assets/capturas/compras.png)
 
 ---
 
@@ -117,15 +117,7 @@ flowchart LR
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen del módulo Reportes.
-
----
-
-# 📚 Swagger
-
-!!! tip "Captura"
-
-    Inserte aquí la imagen de Swagger.
+    ![Módulo de reportes](../assets/capturas/reportes.png)
 
 ---
 
@@ -133,7 +125,7 @@ flowchart LR
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen de esta documentación publicada.
+    ![Documentación publicada en MKDocs](../assets/capturas/mkdocs.png)
 
 ---
 
@@ -141,7 +133,7 @@ flowchart LR
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen del repositorio GitHub.
+    ![Repositorio en GitHub](../assets/capturas/github.png)
 
 ---
 
@@ -149,7 +141,7 @@ flowchart LR
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen del análisis SonarCloud.
+    ![Análisis en SonarCloud](../assets/capturas/sonarcloud.png)
 
 ---
 
@@ -157,7 +149,7 @@ flowchart LR
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen del análisis Snyk.
+    ![Análisis en Snyk](../assets/capturas/snyk.png)
 
 ---
 
@@ -165,7 +157,7 @@ flowchart LR
 
 !!! tip "Captura"
 
-    Inserte aquí la imagen del resultado de las pruebas de rendimiento.
+    ![Resultado de pruebas de rendimiento con k6](../assets/capturas/k6.png)
 
 ---
 
@@ -183,7 +175,6 @@ flowchart LR
 | Ventas | ✅ |
 | Compras | ✅ |
 | Reportes | ✅ |
-| Swagger | ✅ |
 | GitHub | ✅ |
 | SonarCloud | ✅ |
 | Snyk | ✅ |

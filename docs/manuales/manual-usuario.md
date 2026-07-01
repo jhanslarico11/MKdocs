@@ -23,7 +23,7 @@ Permitir el acceso seguro al sistema mediante credenciales de usuario.
 
 !!! tip "Captura"
 
-    Inserte aquí la captura de la pantalla de Login.
+    ![Pantalla de inicio de sesión](../assets/capturas/login.png)
 
 ---
 
@@ -40,7 +40,7 @@ Después del inicio de sesión el usuario visualizará el panel principal con ac
 
 !!! tip "Captura"
 
-    Inserte aquí la captura del Dashboard.
+    ![Dashboard principal](../assets/capturas/dashboard.png)
 
 ---
 
@@ -81,7 +81,7 @@ Listado
 
 !!! tip "Captura"
 
-    Inserte aquí la captura del módulo Usuarios.
+    ![Módulo de gestión de usuarios](../assets/capturas/usuarios.png)
 
 ---
 
@@ -116,7 +116,7 @@ Actualizar Inventario
 
 !!! tip "Captura"
 
-    Inserte aquí la captura del módulo Productos.
+    ![Módulo de gestión de productos](../assets/capturas/productos.png)
 
 ---
 
@@ -130,7 +130,7 @@ Funciones:
 
 !!! tip "Captura"
 
-    Inserte aquí la captura del módulo Categorías.
+    ![Módulo de gestión de categorías](../assets/capturas/categorias.png)
 
 ---
 
@@ -147,7 +147,7 @@ Funciones
 
 !!! tip "Captura"
 
-    Inserte aquí la captura del módulo Clientes.
+    ![Módulo de gestión de clientes](../assets/capturas/clientes.png)
 
 ---
 
@@ -163,7 +163,7 @@ Funciones
 
 !!! tip "Captura"
 
-    Inserte aquí la captura del módulo Proveedores.
+    ![Módulo de gestión de proveedores](../assets/capturas/proveedores.png)
 
 ---
 
@@ -191,7 +191,7 @@ Sistema-->>Usuario: Venta Exitosa
 
 !!! tip "Captura"
 
-    Inserte aquí la captura del módulo Ventas.
+    ![Registro de ventas](../assets/capturas/ventas.png)
 
 ---
 
@@ -206,7 +206,7 @@ Permite ingresar productos al inventario.
 
 !!! tip "Captura"
 
-    Inserte aquí la captura del módulo Compras.
+    ![Registro de compras](../assets/capturas/compras.png)
 
 ---
 
@@ -249,7 +249,7 @@ Clientes
 
 !!! tip "Captura"
 
-    Inserte aquí la captura del módulo Reportes.
+    ![Módulo de reportes](../assets/capturas/reportes.png)
 
 ---
 

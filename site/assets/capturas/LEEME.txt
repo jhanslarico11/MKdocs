@@ -1,0 +1,24 @@
+Capturas del sistema
+====================
+
+Coloca en esta carpeta las capturas usadas por la documentacion.
+
+Usa estos nombres para que las imagenes aparezcan automaticamente:
+
+- login.png: Inicio de sesion
+- dashboard.png: Dashboard principal
+- usuarios.png: Gestion de usuarios
+- productos.png: Gestion de productos
+- categorias.png: Gestion de categorias
+- clientes.png: Gestion de clientes
+- proveedores.png: Gestion de proveedores
+- ventas.png: Registro de ventas
+- compras.png: Registro de compras
+- reportes.png: Reportes
+- mkdocs.png: Documentacion MKDocs publicada
+- github.png: Repositorio GitHub
+- sonarcloud.png: Analisis SonarCloud
+- snyk.png: Analisis Snyk
+- k6.png: Pruebas de rendimiento
+
+Si tus capturas estan en JPG, puedes cambiar la extension en los archivos Markdown o guardarlas como PNG con estos nombres.
