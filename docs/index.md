@@ -3,6 +3,18 @@
   <h1>🛒 Tridente Store</h1>
   <p>Sistema inteligente de gestión comercial para ventas, compras, inventario, clientes, proveedores y reportes.</p>
 
+  <div class="project-credits">
+    <div>
+      <strong>Alumnos</strong>
+      <span>Anyelo Jhans Sarmiento Larico</span>
+      <span>Jose Israel Ccoto Cruz</span>
+    </div>
+    <div>
+      <strong>Docente</strong>
+      <span>Ruben Roque Sucari</span>
+    </div>
+  </div>
+
   <div class="badges">
     <span>Laravel</span><span>React</span><span>MySQL</span><span>Swagger</span>
     <span>SonarCloud</span><span>Snyk</span><span>k6</span><span>GitHub Pages</span>

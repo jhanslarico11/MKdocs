@@ -66,6 +66,45 @@
   opacity: .95;
 }
 
+.project-credits {
+  display: inline-grid;
+  grid-template-columns: repeat(2, minmax(190px, 1fr));
+  gap: .75rem;
+  max-width: 720px;
+  margin: 0 auto 1.4rem auto;
+  padding: .85rem;
+  border-radius: 22px;
+  background: rgba(255,255,255,.12);
+  border: 1px solid rgba(255,255,255,.25);
+  backdrop-filter: blur(10px);
+}
+
+.project-credits div {
+  display: grid;
+  gap: .18rem;
+  padding: .45rem .65rem;
+}
+
+.project-credits strong {
+  color: #67e8f9;
+  font-size: .78rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.project-credits span {
+  color: white;
+  font-weight: 800;
+  line-height: 1.35;
+}
+
+@media (max-width: 640px) {
+  .project-credits {
+    grid-template-columns: 1fr;
+    display: grid;
+  }
+}
+
 .badges span {
   display: inline-block;
   margin: .25rem;
